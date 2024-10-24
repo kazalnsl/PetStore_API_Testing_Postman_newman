@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "username": "User_1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "user1@example.com",
+    "password": "Pass_123",
+    "phone": "1234567890",
+    "userStatus": 0
+  },
+  {
+    "id": 2,
+    "username": "User_2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "user2@example.com",
+    "password": "Pass_456",
+    "phone": "2345678901",
+    "userStatus": 0
+  },
+  {
+    "id": 3,
+    "username": "User_3",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "user3@example.com",
+    "password": "Pass_789",
+    "phone": "3456789012",
+    "userStatus": 0
+  },
+  {
+    "id": 4,
+    "username": "User_4",
+    "firstName": "Bob",
+    "lastName": "Williams",
+    "email": "user4@example.com",
+    "password": "Pass_101",
+    "phone": "4567890123",
+    "userStatus": 0
+  },
+  {
+    "id": 5,
+    "username": "User_5",
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "email": "user5@example.com",
+    "password": "Pass_112",
+    "phone": "5678901234",
+    "userStatus": 0
+  },
+  {
+    "id": 6,
+    "username": "User_6",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "user6@example.com",
+    "password": "Pass_113",
+    "phone": "6789012345",
+    "userStatus": 0
+  },
+  {
+    "id": 7,
+    "username": "User_7",
+    "firstName": "Eve",
+    "lastName": "Garcia",
+    "email": "user7@example.com",
+    "password": "Pass_114",
+    "phone": "7890123456",
+    "userStatus": 0
+  },
+  {
+    "id": 8,
+    "username": "User_8",
+    "firstName": "Frank",
+    "lastName": "Miller",
+    "email": "user8@example.com",
+    "password": "Pass_115",
+    "phone": "8901234567",
+    "userStatus": 0
+  },
+  {
+    "id": 9,
+    "username": "User_9",
+    "firstName": "Grace",
+    "lastName": "Martinez",
+    "email": "user9@example.com",
+    "password": "Pass_116",
+    "phone": "9012345678",
+    "userStatus": 0
+  },
+  {
+    "id": 10,
+    "username": "User_10",
+    "firstName": "Hank",
+    "lastName": "Davis",
+    "email": "user10@example.com",
+    "password": "Pass_117",
+    "phone": "0123456789",
+    "userStatus": 0
+  }
+]
